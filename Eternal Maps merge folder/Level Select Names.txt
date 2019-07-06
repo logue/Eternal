@@ -1,3 +1,55 @@
+0 どこでもない向こう側（The Far Side Of Nowhere）
+1 何度目のデジャ・ヴだ（Deja Vu All Over Again）
+2 レンサ球菌咽頭炎（Septococcal Pfhoryngitis）
+3 推尺異常（Dysmentria）
+4 セクメト神の覚醒（Sakhmet Rising）
+5 未配線（Unwired）
+6 ルートと起端（Roots And Radicals）
+7 正接宇宙（The Tangent Universe）
+8 コアを打ち抜く（Core Done Blew）
+9 核心（Heart of Fusion）
+10 眠りに、夢の果てへ（To Sleep, Perchance to Dream）
+11 ヒステリックな母胎（Hysterical Womb）
+12 困った友達（A Friend In Need）
+13 不運なプフォール（Unlucky Pfhor Some）
+14 思いがけず（Unpfhorseen）
+15 寝ている間うちに巨人を殺す（Killing the Giants as They Sleep）
+16 会社に放尿（Pissing on the Corporation）
+17 生きている受信機（The Living Receiver）
+18 プフォールのための私の王国（My Kingdom Pfhor A Horse）
+19 会社を焼却（Burning Down The Corporation）
+20 空虚なる世界（The World Is Hollow）
+21 スフト・イア（S'pht'ia）
+22 眠れる神々を死なせて（Let Sleeping Gods Die）
+23 彼女は闇の者（She Is The Dark One）
+24 スフト起こる（S'pht Happens）
+25 スフトを喰らって死ぬ（Eat S'pht and Die）
+26 モヒカンの後ろから２番目（Second to Last of the Mohicans）
+27 操作された死（The Manipulated Dead）
+28 ロウォンの第３の岩（Third Rock from Lh'owon）
+29 イカロスの飛行（Flight Of Icarus）
+30 空中の大地（The Land In The Sky）
+31 子羊を得たプフォール（Pfhor Får Lamm）
+32 素晴らしいハルク（The Incredible Hulk）
+33 バビロン　拾（Babylon X）
+34 怖くない（Dread Not）
+35 昆虫の目玉を持った宇宙（Bug-Eyed In Space）
+36 走れ、臆病者！（Run, Coward!）
+37 保険の罠（The Ensurance Trap）
+38 もう一度違反を取り消す（Once More Unto The Breach）
+39 びんの悪魔（Genie In A Bottle）
+40 空虚の中を浮かぶ（Floating In The Void）
+41 天国の残響（Echoes of Eden）
+42 カタコンベに居住する死者（The Dead Live In The Catacombs）
+43 これらの洞窟は自然にはできない（These Caves Can't Be a Natural Formation）
+44 洞窟の奥深くに（Deep Into The Grotto）
+45 蛙がそこをふっ飛ばすんだ（Frog Blast The Vent Core）
+46 これについて気分が悪くなった（I've Got A Bad Feeling About This）
+47 時間旅行の哲学（The Philosophy Of Time Travel）
+48 このメッセージは自動的に消去される（This Message Will Self-Destruct）
+49 私達は庭で一度会っている（We Met Once in the Garden）
+50 巨人が倒れた場所（Where Giants Have Fallen）
+51 至る場所の手前
 128 Master XML
 1000 Weapons Lua
 1501 Ch1
