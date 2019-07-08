@@ -11,7 +11,6 @@
     <texture coll="17" bitmap="7" normal_image="Walls/Set1-Forerunner/0Special/08.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/08.dds" opac_type="1" normal_mask="Walls/Set1-Forerunner/0Special/08_mask.dds" type="0"/>
     <texture coll="17" bitmap="8" normal_image="Walls/Set1-Forerunner/0Special/09.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow-big.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/09glow_mask.png" offset_image="Walls/Set1-Forerunner/xBumpMaps/09.dds" type="0"/>
     <texture coll="17" bitmap="9" normal_image="Walls/Set1-Forerunner/0Special/10.dds" opac_type="1" offset_image="Walls/Set1-Forerunner/xBumpMaps/10.dds" type="0"/>
-
     <texture coll="17" bitmap="10" normal_image="Walls/Set1-Forerunner/1Grey/11.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/11.dds" type="0"/>
     <texture coll="17" bitmap="11" normal_image="Walls/Set1-Forerunner/1Grey/12.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/12.dds" type="0"/>
     <texture coll="17" bitmap="12" normal_image="Walls/Set1-Forerunner/1Grey/13.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/13.dds" type="0"/>
@@ -36,7 +35,6 @@
     <texture coll="17" bitmap="31" normal_image="Walls/Set1-Forerunner/1Grey/36.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/36.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="17" bitmap="32" normal_image="Walls/Set1-Forerunner/1Grey/37.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/37.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="17" bitmap="33" normal_image="Walls/Set1-Forerunner/1Grey/38.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="17" bitmap="34" normal_image="Walls/Set1-Forerunner/2Orange/11.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/11.dds" type="0"/>
     <texture coll="17" bitmap="35" normal_image="Walls/Set1-Forerunner/2Orange/12.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/12.dds" type="0"/>
     <texture coll="17" bitmap="36" normal_image="Walls/Set1-Forerunner/2Orange/13.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/13.dds" type="0"/>
@@ -61,7 +59,6 @@
     <texture coll="17" bitmap="55" normal_image="Walls/Set1-Forerunner/2Orange/36.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/36.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="17" bitmap="56" normal_image="Walls/Set1-Forerunner/2Orange/37.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/37.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="17" bitmap="57" normal_image="Walls/Set1-Forerunner/2Orange/38.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="17" bitmap="58" normal_image="Walls/Set1-Forerunner/3Green/11.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/11.dds" type="0"/>
     <texture coll="17" bitmap="59" normal_image="Walls/Set1-Forerunner/3Green/12.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/12.dds" type="0"/>
     <texture coll="17" bitmap="60" normal_image="Walls/Set1-Forerunner/3Green/13.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/13.dds" type="0"/>
@@ -86,7 +83,6 @@
     <texture coll="17" bitmap="79" normal_image="Walls/Set1-Forerunner/3Green/36.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/36.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="17" bitmap="80" normal_image="Walls/Set1-Forerunner/3Green/37.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/37.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="17" bitmap="81" normal_image="Walls/Set1-Forerunner/3Green/38.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="17" bitmap="82" normal_image="Walls/Set1-Forerunner/4Azure/11.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/11.dds" type="0"/>
     <texture coll="17" bitmap="83" normal_image="Walls/Set1-Forerunner/4Azure/12.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/12.dds" type="0"/>
     <texture coll="17" bitmap="84" normal_image="Walls/Set1-Forerunner/4Azure/13.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/13.dds" type="0"/>
@@ -111,7 +107,6 @@
     <texture coll="17" bitmap="103" normal_image="Walls/Set1-Forerunner/4Azure/36.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/36.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="17" bitmap="104" normal_image="Walls/Set1-Forerunner/4Azure/37.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/37.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="17" bitmap="105" normal_image="Walls/Set1-Forerunner/4Azure/38.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="17" bitmap="106" normal_image="Walls/Set1-Forerunner/5Magenta/11.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/11.dds" type="0"/>
     <texture coll="17" bitmap="107" normal_image="Walls/Set1-Forerunner/5Magenta/12.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/12.dds" type="0"/>
     <texture coll="17" bitmap="108" normal_image="Walls/Set1-Forerunner/5Magenta/13.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/13.dds" type="0"/>
@@ -136,10 +131,7 @@
     <texture coll="17" bitmap="127" normal_image="Walls/Set1-Forerunner/5Magenta/36.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/36.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="17" bitmap="128" normal_image="Walls/Set1-Forerunner/5Magenta/37.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/37.dds" glow_image="Walls/Set1-Forerunner/xGlowMaps/forerunner-glow.png" glow_mask="Walls/Set1-Forerunner/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="17" bitmap="129" normal_image="Walls/Set1-Forerunner/5Magenta/38.dds" offset_image="Walls/Set1-Forerunner/xBumpMaps/38.dds" type="0"/>
-
-
     <!-- Hires Texture Replacement For S'pht Textures (Set 2) -->
-
     <texture coll="18" bitmap="0" normal_image="Walls/Set2-Spht/0Special/01.dds" glow_image="Walls/Set2-Spht/xGlowMaps/01.png" glow_mask="Walls/Set2-Spht/xGlowMaps/01glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/01.dds" type="0"/>
     <texture coll="18" bitmap="1" normal_image="Walls/Set2-Spht/0Special/02.dds" glow_image="Walls/Set2-Spht/xGlowMaps/02.png" glow_mask="Walls/Set2-Spht/xGlowMaps/02glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/02.dds" type="0"/>
     <texture coll="18" bitmap="2" normal_image="Walls/Set2-Spht/0Special/03.dds" glow_image="Walls/Set2-Spht/xGlowMaps/03.png" glow_mask="Walls/Set2-Spht/xGlowMaps/03glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/03.dds" type="0"/>
@@ -150,7 +142,6 @@
     <texture coll="18" bitmap="7" normal_image="Walls/Set2-Spht/0Special/08.dds" opac_type="1" offset_image="Walls/Set2-Spht/xBumpMaps/08.dds" type="0"/>
     <texture coll="18" bitmap="8" normal_image="Walls/Set2-Spht/0Special/09.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow-big.png" glow_mask="Walls/Set2-Spht/xGlowMaps/09glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/09.dds" type="0"/>
     <texture coll="18" bitmap="9" normal_image="Walls/Set2-Spht/0Special/10.dds" opac_type="1" glow_image="Walls/Set2-Spht/xGlowMaps/10.png" glow_mask="Walls/Set2-Spht/xGlowMaps/10glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/10.dds" type="0"/>
-
     <texture coll="18" bitmap="10" normal_image="Walls/Set2-Spht/1Grey/11.dds" offset_image="Walls/Set2-Spht/xBumpMaps/11.dds" type="0"/>
     <texture coll="18" bitmap="11" normal_image="Walls/Set2-Spht/1Grey/12.dds" offset_image="Walls/Set2-Spht/xBumpMaps/12.dds" type="0"/>
     <texture coll="18" bitmap="12" normal_image="Walls/Set2-Spht/1Grey/13.dds" offset_image="Walls/Set2-Spht/xBumpMaps/13.dds" type="0"/>
@@ -175,7 +166,6 @@
     <texture coll="18" bitmap="31" normal_image="Walls/Set2-Spht/1Grey/36.dds" offset_image="Walls/Set2-Spht/xBumpMaps/36.dds" type="0"/>
     <texture coll="18" bitmap="32" normal_image="Walls/Set2-Spht/1Grey/37.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/37glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/37.dds" type="0"/>
     <texture coll="18" bitmap="33" normal_image="Walls/Set2-Spht/1Grey/38.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/38glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="18" bitmap="34" normal_image="Walls/Set2-Spht/2Orange/11.dds" offset_image="Walls/Set2-Spht/xBumpMaps/11.dds" type="0"/>
     <texture coll="18" bitmap="35" normal_image="Walls/Set2-Spht/2Orange/12.dds" offset_image="Walls/Set2-Spht/xBumpMaps/12.dds" type="0"/>
     <texture coll="18" bitmap="36" normal_image="Walls/Set2-Spht/2Orange/13.dds" offset_image="Walls/Set2-Spht/xBumpMaps/13.dds" type="0"/>
@@ -200,7 +190,6 @@
     <texture coll="18" bitmap="55" normal_image="Walls/Set2-Spht/2Orange/36.dds" offset_image="Walls/Set2-Spht/xBumpMaps/36.dds" type="0"/>
     <texture coll="18" bitmap="56" normal_image="Walls/Set2-Spht/2Orange/37.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/37glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/37.dds" type="0"/>
     <texture coll="18" bitmap="57" normal_image="Walls/Set2-Spht/2Orange/38.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/38glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="18" bitmap="58" normal_image="Walls/Set2-Spht/3Green/11.dds" offset_image="Walls/Set2-Spht/xBumpMaps/11.dds" type="0"/>
     <texture coll="18" bitmap="59" normal_image="Walls/Set2-Spht/3Green/12.dds" offset_image="Walls/Set2-Spht/xBumpMaps/12.dds" type="0"/>
     <texture coll="18" bitmap="60" normal_image="Walls/Set2-Spht/3Green/13.dds" offset_image="Walls/Set2-Spht/xBumpMaps/13.dds" type="0"/>
@@ -209,7 +198,7 @@
     <texture coll="18" bitmap="63" normal_image="Walls/Set2-Spht/3Green/16.dds" offset_image="Walls/Set2-Spht/xBumpMaps/16.dds" type="0"/>
     <texture coll="18" bitmap="64" normal_image="Walls/Set2-Spht/3Green/17.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/17glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/17.dds" type="0"/>
     <texture coll="18" bitmap="65" normal_image="Walls/Set2-Spht/3Green/18.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/18glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/18.dds" type="0"/>
-    <texture coll="18" bitmap="66" normal_image="Walls/Set2-Spht/3Green/21.dds" type="0"/>
+    <texture coll="18" bitmap="66" normal_image="Walls/Set2-Spht/3Green/21.dds" offset_image="Walls/Set2-Spht/xBumpMaps/21.dds" type="0"/>
     <texture coll="18" bitmap="67" normal_image="Walls/Set2-Spht/3Green/22.dds" offset_image="Walls/Set2-Spht/xBumpMaps/22.dds" type="0"/>
     <texture coll="18" bitmap="68" normal_image="Walls/Set2-Spht/3Green/23.dds" offset_image="Walls/Set2-Spht/xBumpMaps/23.dds" type="0"/>
     <texture coll="18" bitmap="69" normal_image="Walls/Set2-Spht/3Green/24.dds" offset_image="Walls/Set2-Spht/xBumpMaps/24.dds" type="0"/>
@@ -225,7 +214,6 @@
     <texture coll="18" bitmap="79" normal_image="Walls/Set2-Spht/3Green/36.dds" offset_image="Walls/Set2-Spht/xBumpMaps/36.dds" type="0"/>
     <texture coll="18" bitmap="80" normal_image="Walls/Set2-Spht/3Green/37.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/37glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/37.dds" type="0"/>
     <texture coll="18" bitmap="81" normal_image="Walls/Set2-Spht/3Green/38.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/38glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="18" bitmap="82" normal_image="Walls/Set2-Spht/4Azure/11.dds" offset_image="Walls/Set2-Spht/xBumpMaps/11.dds" type="0"/>
     <texture coll="18" bitmap="83" normal_image="Walls/Set2-Spht/4Azure/12.dds" offset_image="Walls/Set2-Spht/xBumpMaps/12.dds" type="0"/>
     <texture coll="18" bitmap="84" normal_image="Walls/Set2-Spht/4Azure/13.dds" offset_image="Walls/Set2-Spht/xBumpMaps/13.dds" type="0"/>
@@ -250,7 +238,6 @@
     <texture coll="18" bitmap="103" normal_image="Walls/Set2-Spht/4Azure/36.dds" offset_image="Walls/Set2-Spht/xBumpMaps/36.dds" type="0"/>
     <texture coll="18" bitmap="104" normal_image="Walls/Set2-Spht/4Azure/37.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/37glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/37.dds" type="0"/>
     <texture coll="18" bitmap="105" normal_image="Walls/Set2-Spht/4Azure/38.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/38glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="18" bitmap="106" normal_image="Walls/Set2-Spht/5Magenta/11.dds" offset_image="Walls/Set2-Spht/xBumpMaps/11.dds" type="0"/>
     <texture coll="18" bitmap="107" normal_image="Walls/Set2-Spht/5Magenta/12.dds" offset_image="Walls/Set2-Spht/xBumpMaps/12.dds" type="0"/>
     <texture coll="18" bitmap="108" normal_image="Walls/Set2-Spht/5Magenta/13.dds" offset_image="Walls/Set2-Spht/xBumpMaps/13.dds" type="0"/>
@@ -275,7 +262,6 @@
     <texture coll="18" bitmap="127" normal_image="Walls/Set2-Spht/5Magenta/36.dds" offset_image="Walls/Set2-Spht/xBumpMaps/36.dds" type="0"/>
     <texture coll="18" bitmap="128" normal_image="Walls/Set2-Spht/5Magenta/37.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/37glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/37.dds" type="0"/>
     <texture coll="18" bitmap="129" normal_image="Walls/Set2-Spht/5Magenta/38.dds" glow_image="Walls/Set2-Spht/xGlowMaps/spht-glow.png" glow_mask="Walls/Set2-Spht/xGlowMaps/38glow_mask.png" offset_image="Walls/Set2-Spht/xBumpMaps/38.dds" type="0"/>
-
     <!-- Hires Texture Replacement For Jjaro Textures (Set 3) -->
     <texture coll="19" bitmap="0" normal_image="Walls/Set3-Jjaro/0Special/01.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/01.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/01.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/01glow_mask.png" type="0"/>
     <texture coll="19" bitmap="1" normal_image="Walls/Set3-Jjaro/0Special/02.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/02.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/02.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/02glow_mask.png" type="0"/>
@@ -287,7 +273,6 @@
     <texture coll="19" bitmap="7" normal_image="Walls/Set3-Jjaro/0Special/08.dds" opac_type="1" offset_image="Walls/Set3-Jjaro/xBumpMaps/08.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow-big.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/08glow_mask.png" normal_mask="Walls/Set3-Jjaro/0Special/08_mask.dds" type="0"/>
     <texture coll="19" bitmap="8" normal_image="Walls/Set3-Jjaro/0Special/09.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/09.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow-big.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/09glow_mask.png" type="0"/>
     <texture coll="19" bitmap="9" normal_image="Walls/Set3-Jjaro/0Special/10.dds" opac_type="1" offset_image="Walls/Set3-Jjaro/xBumpMaps/10.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/10.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/10glow_mask.png" type="0"/>
-
     <texture coll="19" bitmap="10" normal_image="Walls/Set3-Jjaro/1Grey/11.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/11.dds" type="0"/>
     <texture coll="19" bitmap="11" normal_image="Walls/Set3-Jjaro/1Grey/12.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/12.dds" type="0"/>
     <texture coll="19" bitmap="12" normal_image="Walls/Set3-Jjaro/1Grey/13.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/13.dds" type="0"/>
@@ -312,7 +297,6 @@
     <texture coll="19" bitmap="31" normal_image="Walls/Set3-Jjaro/1Grey/36.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/36.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="19" bitmap="32" normal_image="Walls/Set3-Jjaro/1Grey/37.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/37.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="19" bitmap="33" normal_image="Walls/Set3-Jjaro/1Grey/38.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/38.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/38glow_mask.png" type="0"/>
-
     <texture coll="19" bitmap="34" normal_image="Walls/Set3-Jjaro/2Orange/11.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/11.dds" type="0"/>
     <texture coll="19" bitmap="35" normal_image="Walls/Set3-Jjaro/2Orange/12.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/12.dds" type="0"/>
     <texture coll="19" bitmap="36" normal_image="Walls/Set3-Jjaro/2Orange/13.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/13.dds" type="0"/>
@@ -337,7 +321,6 @@
     <texture coll="19" bitmap="55" normal_image="Walls/Set3-Jjaro/2Orange/36.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/36.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="19" bitmap="56" normal_image="Walls/Set3-Jjaro/2Orange/37.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/37.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="19" bitmap="57" normal_image="Walls/Set3-Jjaro/2Orange/38.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/38.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/38glow_mask.png" type="0"/>
-
     <texture coll="19" bitmap="58" normal_image="Walls/Set3-Jjaro/3Green/11.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/11.dds" type="0"/>
     <texture coll="19" bitmap="59" normal_image="Walls/Set3-Jjaro/3Green/12.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/12.dds" type="0"/>
     <texture coll="19" bitmap="60" normal_image="Walls/Set3-Jjaro/3Green/13.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/13.dds" type="0"/>
@@ -362,7 +345,6 @@
     <texture coll="19" bitmap="79" normal_image="Walls/Set3-Jjaro/3Green/36.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/36.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="19" bitmap="80" normal_image="Walls/Set3-Jjaro/3Green/37.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/37.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="19" bitmap="81" normal_image="Walls/Set3-Jjaro/3Green/38.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/38.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/38glow_mask.png" type="0"/>
-
     <texture coll="19" bitmap="82" normal_image="Walls/Set3-Jjaro/4Azure/11.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/11.dds" type="0"/>
     <texture coll="19" bitmap="83" normal_image="Walls/Set3-Jjaro/4Azure/12.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/12.dds" type="0"/>
     <texture coll="19" bitmap="84" normal_image="Walls/Set3-Jjaro/4Azure/13.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/13.dds" type="0"/>
@@ -387,7 +369,6 @@
     <texture coll="19" bitmap="103" normal_image="Walls/Set3-Jjaro/4Azure/36.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/36.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="19" bitmap="104" normal_image="Walls/Set3-Jjaro/4Azure/37.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/37.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="19" bitmap="105" normal_image="Walls/Set3-Jjaro/4Azure/38.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/38.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/38glow_mask.png" type="0"/>
-
     <texture coll="19" bitmap="106" normal_image="Walls/Set3-Jjaro/5Magenta/11.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/11.dds" type="0"/>
     <texture coll="19" bitmap="107" normal_image="Walls/Set3-Jjaro/5Magenta/12.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/12.dds" type="0"/>
     <texture coll="19" bitmap="108" normal_image="Walls/Set3-Jjaro/5Magenta/13.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/13.dds" type="0"/>
@@ -412,7 +393,6 @@
     <texture coll="19" bitmap="127" normal_image="Walls/Set3-Jjaro/5Magenta/36.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/36.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/36glow_mask.png" type="0"/>
     <texture coll="19" bitmap="128" normal_image="Walls/Set3-Jjaro/5Magenta/37.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/37.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="19" bitmap="129" normal_image="Walls/Set3-Jjaro/5Magenta/38.dds" offset_image="Walls/Set3-Jjaro/xBumpMaps/38.dds" glow_image="Walls/Set3-Jjaro/xGlowMaps/jjaro-glow.png" glow_mask="Walls/Set3-Jjaro/xGlowMaps/38glow_mask.png" type="0"/>
-
     <!-- Hires Texture Replacement For Human Textures (Set 4) -->
     <texture coll="20" bitmap="0" normal_image="Walls/Set4-Human/0Special/01.dds" offset_image="Walls/Set4-Human/xBumpMaps/01.dds" glow_image="Walls/Set4-Human/xGlowMaps/01.png" glow_mask="Walls/Set4-Human/xGlowMaps/01glow_mask.png" type="0"/>
     <texture coll="20" bitmap="1" normal_image="Walls/Set4-Human/0Special/02.dds" offset_image="Walls/Set4-Human/xBumpMaps/02.dds" glow_image="Walls/Set4-Human/xGlowMaps/02.png" glow_mask="Walls/Set4-Human/xGlowMaps/02glow_mask.png" type="0"/>
@@ -424,7 +404,6 @@
     <texture coll="20" bitmap="7" normal_image="Walls/Set4-Human/0Special/08.dds" opac_type="1" offset_image="Walls/Set4-Human/xBumpMaps/08.dds" type="0"/>
     <texture coll="20" bitmap="8" normal_image="Walls/Set4-Human/0Special/09.dds" offset_image="Walls/Set4-Human/xBumpMaps/09.dds" glow_image="Walls/Set4-Human/xGlowMaps/human-glow-big.png" glow_mask="Walls/Set4-Human/xGlowMaps/09glow_mask.png" type="0"/>
     <texture coll="20" bitmap="9" normal_image="Walls/Set4-Human/0Special/10.dds" opac_type="1" offset_image="Walls/Set4-Human/xBumpMaps/10.dds" type="0"/>
-
     <texture coll="20" bitmap="10" normal_image="Walls/Set4-Human/1Grey/11.dds" offset_image="Walls/Set4-Human/xBumpMaps/11.dds" type="0"/>
     <texture coll="20" bitmap="11" normal_image="Walls/Set4-Human/1Grey/12.dds" offset_image="Walls/Set4-Human/xBumpMaps/12.dds" type="0"/>
     <texture coll="20" bitmap="12" normal_image="Walls/Set4-Human/1Grey/13.dds" offset_image="Walls/Set4-Human/xBumpMaps/13.dds" type="0"/>
@@ -449,7 +428,6 @@
     <texture coll="20" bitmap="31" normal_image="Walls/Set4-Human/1Grey/36.dds" offset_image="Walls/Set4-Human/xBumpMaps/36.dds" type="0"/>
     <texture coll="20" bitmap="32" normal_image="Walls/Set4-Human/1Grey/37.dds" offset_image="Walls/Set4-Human/xBumpMaps/37.dds" glow_image="Walls/Set4-Human/xGlowMaps/human-glow.png" glow_mask="Walls/Set4-Human/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="20" bitmap="33" normal_image="Walls/Set4-Human/1Grey/38.dds" offset_image="Walls/Set4-Human/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="20" bitmap="34" normal_image="Walls/Set4-Human/2Orange/11.dds" offset_image="Walls/Set4-Human/xBumpMaps/11.dds" type="0"/>
     <texture coll="20" bitmap="35" normal_image="Walls/Set4-Human/2Orange/12.dds" offset_image="Walls/Set4-Human/xBumpMaps/12.dds" type="0"/>
     <texture coll="20" bitmap="36" normal_image="Walls/Set4-Human/2Orange/13.dds" offset_image="Walls/Set4-Human/xBumpMaps/13.dds" type="0"/>
@@ -474,7 +452,6 @@
     <texture coll="20" bitmap="55" normal_image="Walls/Set4-Human/2Orange/36.dds" offset_image="Walls/Set4-Human/xBumpMaps/36.dds" type="0"/>
     <texture coll="20" bitmap="56" normal_image="Walls/Set4-Human/2Orange/37.dds" offset_image="Walls/Set4-Human/xBumpMaps/37.dds" glow_image="Walls/Set4-Human/xGlowMaps/human-glow.png" glow_mask="Walls/Set4-Human/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="20" bitmap="57" normal_image="Walls/Set4-Human/2Orange/38.dds" offset_image="Walls/Set4-Human/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="20" bitmap="58" normal_image="Walls/Set4-Human/3Green/11.dds" offset_image="Walls/Set4-Human/xBumpMaps/11.dds" type="0"/>
     <texture coll="20" bitmap="59" normal_image="Walls/Set4-Human/3Green/12.dds" offset_image="Walls/Set4-Human/xBumpMaps/12.dds" type="0"/>
     <texture coll="20" bitmap="60" normal_image="Walls/Set4-Human/3Green/13.dds" offset_image="Walls/Set4-Human/xBumpMaps/13.dds" type="0"/>
@@ -499,7 +476,6 @@
     <texture coll="20" bitmap="79" normal_image="Walls/Set4-Human/3Green/36.dds" offset_image="Walls/Set4-Human/xBumpMaps/36.dds" type="0"/>
     <texture coll="20" bitmap="80" normal_image="Walls/Set4-Human/3Green/37.dds" offset_image="Walls/Set4-Human/xBumpMaps/37.dds" glow_image="Walls/Set4-Human/xGlowMaps/human-glow.png" glow_mask="Walls/Set4-Human/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="20" bitmap="81" normal_image="Walls/Set4-Human/3Green/38.dds" offset_image="Walls/Set4-Human/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="20" bitmap="82" normal_image="Walls/Set4-Human/4Azure/11.dds" offset_image="Walls/Set4-Human/xBumpMaps/11.dds" type="0"/>
     <texture coll="20" bitmap="83" normal_image="Walls/Set4-Human/4Azure/12.dds" offset_image="Walls/Set4-Human/xBumpMaps/12.dds" type="0"/>
     <texture coll="20" bitmap="84" normal_image="Walls/Set4-Human/4Azure/13.dds" offset_image="Walls/Set4-Human/xBumpMaps/13.dds" type="0"/>
@@ -524,7 +500,6 @@
     <texture coll="20" bitmap="103" normal_image="Walls/Set4-Human/4Azure/36.dds" offset_image="Walls/Set4-Human/xBumpMaps/36.dds" type="0"/>
     <texture coll="20" bitmap="104" normal_image="Walls/Set4-Human/4Azure/37.dds" offset_image="Walls/Set4-Human/xBumpMaps/37.dds" glow_image="Walls/Set4-Human/xGlowMaps/human-glow.png" glow_mask="Walls/Set4-Human/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="20" bitmap="105" normal_image="Walls/Set4-Human/4Azure/38.dds" offset_image="Walls/Set4-Human/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="20" bitmap="106" normal_image="Walls/Set4-Human/5Magenta/11.dds" offset_image="Walls/Set4-Human/xBumpMaps/11.dds" type="0"/>
     <texture coll="20" bitmap="107" normal_image="Walls/Set4-Human/5Magenta/12.dds" offset_image="Walls/Set4-Human/xBumpMaps/12.dds" type="0"/>
     <texture coll="20" bitmap="108" normal_image="Walls/Set4-Human/5Magenta/13.dds" offset_image="Walls/Set4-Human/xBumpMaps/13.dds" type="0"/>
@@ -549,7 +524,6 @@
     <texture coll="20" bitmap="127" normal_image="Walls/Set4-Human/5Magenta/36.dds" offset_image="Walls/Set4-Human/xBumpMaps/36.dds" type="0"/>
     <texture coll="20" bitmap="128" normal_image="Walls/Set4-Human/5Magenta/37.dds" offset_image="Walls/Set4-Human/xBumpMaps/37.dds" glow_image="Walls/Set4-Human/xGlowMaps/human-glow.png" glow_mask="Walls/Set4-Human/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="20" bitmap="129" normal_image="Walls/Set4-Human/5Magenta/38.dds" offset_image="Walls/Set4-Human/xBumpMaps/38.dds" type="0"/>
-
     <!-- Hires Texture Replacement For Pfhor Textures (Set 5) -->
     <texture coll="21" bitmap="0" normal_image="Walls/Set5-Pfhor/0Special/01.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/01.dds" glow_image="Walls/Set5-Pfhor/xGlowMaps/01.png" glow_mask="Walls/Set5-Pfhor/xGlowMaps/01glow_mask.png" type="0"/>
     <texture coll="21" bitmap="1" normal_image="Walls/Set5-Pfhor/0Special/02.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/02.dds" glow_image="Walls/Set5-Pfhor/xGlowMaps/02.png" glow_mask="Walls/Set5-Pfhor/xGlowMaps/02glow_mask.png" type="0"/>
@@ -561,7 +535,6 @@
     <texture coll="21" bitmap="7" normal_image="Walls/Set5-Pfhor/0Special/08.dds" opac_type="1" offset_image="Walls/Set5-Pfhor/xBumpMaps/08.dds" type="0"/>
     <texture coll="21" bitmap="8" normal_image="Walls/Set5-Pfhor/0Special/09.dds" glow_image="Walls/Set5-Pfhor/xGlowMaps/pfhor-glow-big.png" glow_mask="Walls/Set5-Pfhor/xGlowMaps/09glow_mask.png" offset_image="Walls/Set5-Pfhor/xBumpMaps/09.dds" type="0"/>
     <texture coll="21" bitmap="9" normal_image="Walls/Set5-Pfhor/0Special/10.dds" opac_type="1" glow_image="Walls/Set5-Pfhor/xGlowMaps/10.png" glow_mask="Walls/Set5-Pfhor/xGlowMaps/10glow_mask.png" offset_image="Walls/Set5-Pfhor/xBumpMaps/10.dds" type="0"/>
-
     <texture coll="21" bitmap="10" normal_image="Walls/Set5-Pfhor/1Grey/11.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/11.dds" type="0"/>
     <texture coll="21" bitmap="11" normal_image="Walls/Set5-Pfhor/1Grey/12.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/12.dds" type="0"/>
     <texture coll="21" bitmap="12" normal_image="Walls/Set5-Pfhor/1Grey/13.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/13.dds" type="0"/>
@@ -586,7 +559,6 @@
     <texture coll="21" bitmap="31" normal_image="Walls/Set5-Pfhor/1Grey/36.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/36.dds" type="0"/>
     <texture coll="21" bitmap="32" normal_image="Walls/Set5-Pfhor/1Grey/37.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/37.dds" glow_image="Walls/Set5-Pfhor/xGlowMaps/pfhor-glow.png" glow_mask="Walls/Set5-Pfhor/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="21" bitmap="33" normal_image="Walls/Set5-Pfhor/1Grey/38.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="21" bitmap="34" normal_image="Walls/Set5-Pfhor/2Orange/11.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/11.dds" type="0"/>
     <texture coll="21" bitmap="35" normal_image="Walls/Set5-Pfhor/2Orange/12.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/12.dds" type="0"/>
     <texture coll="21" bitmap="36" normal_image="Walls/Set5-Pfhor/2Orange/13.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/13.dds" type="0"/>
@@ -611,7 +583,6 @@
     <texture coll="21" bitmap="55" normal_image="Walls/Set5-Pfhor/2Orange/36.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/36.dds" type="0"/>
     <texture coll="21" bitmap="56" normal_image="Walls/Set5-Pfhor/2Orange/37.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/37.dds" glow_image="Walls/Set5-Pfhor/xGlowMaps/pfhor-glow.png" glow_mask="Walls/Set5-Pfhor/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="21" bitmap="57" normal_image="Walls/Set5-Pfhor/2Orange/38.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="21" bitmap="58" normal_image="Walls/Set5-Pfhor/3Green/11.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/11.dds" type="0"/>
     <texture coll="21" bitmap="59" normal_image="Walls/Set5-Pfhor/3Green/12.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/12.dds" type="0"/>
     <texture coll="21" bitmap="60" normal_image="Walls/Set5-Pfhor/3Green/13.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/13.dds" type="0"/>
@@ -636,7 +607,6 @@
     <texture coll="21" bitmap="79" normal_image="Walls/Set5-Pfhor/3Green/36.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/36.dds" type="0"/>
     <texture coll="21" bitmap="80" normal_image="Walls/Set5-Pfhor/3Green/37.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/37.dds" glow_image="Walls/Set5-Pfhor/xGlowMaps/pfhor-glow.png" glow_mask="Walls/Set5-Pfhor/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="21" bitmap="81" normal_image="Walls/Set5-Pfhor/3Green/38.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="21" bitmap="82" normal_image="Walls/Set5-Pfhor/4Azure/11.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/11.dds" type="0"/>
     <texture coll="21" bitmap="83" normal_image="Walls/Set5-Pfhor/4Azure/12.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/12.dds" type="0"/>
     <texture coll="21" bitmap="84" normal_image="Walls/Set5-Pfhor/4Azure/13.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/13.dds" type="0"/>
@@ -661,7 +631,6 @@
     <texture coll="21" bitmap="103" normal_image="Walls/Set5-Pfhor/4Azure/36.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/36.dds" type="0"/>
     <texture coll="21" bitmap="104" normal_image="Walls/Set5-Pfhor/4Azure/37.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/37.dds" glow_image="Walls/Set5-Pfhor/xGlowMaps/pfhor-glow.png" glow_mask="Walls/Set5-Pfhor/xGlowMaps/37glow_mask.png" type="0"/>
     <texture coll="21" bitmap="105" normal_image="Walls/Set5-Pfhor/4Azure/38.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/38.dds" type="0"/>
-
     <texture coll="21" bitmap="106" normal_image="Walls/Set5-Pfhor/5Magenta/11.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/11.dds" type="0"/>
     <texture coll="21" bitmap="107" normal_image="Walls/Set5-Pfhor/5Magenta/12.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/12.dds" type="0"/>
     <texture coll="21" bitmap="108" normal_image="Walls/Set5-Pfhor/5Magenta/13.dds" offset_image="Walls/Set5-Pfhor/xBumpMaps/13.dds" type="0"/>
