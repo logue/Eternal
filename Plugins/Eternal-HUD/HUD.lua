@@ -217,11 +217,12 @@ function Triggers.draw()
       
       -- 02: text (player name)
       do
-        local pname = "マーカス・ジョーンズ"
+        local pname = "Marcus Jones"
         if #Game.players > 1 then
-          for i = 1,#Game.players do
-            if Game.players[i].local_ then
-              pname = Game.players[i].name
+          for i = 0,#Game.players-1 do
+            local p = Game.players[i]
+            if p.local_ then
+              pname = p.name
             end
           end
         end
@@ -230,7 +231,7 @@ function Triggers.draw()
       end
       
       -- 02: text (inventory)
-      drawInventory({ x = tx, y = ay + 30, w = tw, h = 100 })
+      drawInventory({ x = tx, y = ay + 40, w = tw, h = 100 })
       
       -- 02: text (end mask)
       if opengl then
@@ -288,7 +289,7 @@ function Triggers.draw()
       
       -- 02: text (status field)
       do
-        local status = "ミョルニール Mk X"
+        local status = "Mjolnir Mk X"
         local nw, nh = fbold:measure_text(status)
         fbold:draw_text(status, tx + (tw - nw)/2, ay + 25, fcolor)
       end
@@ -771,7 +772,7 @@ function drawInventory(rect)
           iname = item.plural
         end
         
-        fbold:draw_text(string.sub(iname, 1, 33), inx, y, clr)
+        fbold:draw_text(string.sub(iname, 1, 22), inx, y, clr)
         
         y = y + h
         if y >= lasty then break end

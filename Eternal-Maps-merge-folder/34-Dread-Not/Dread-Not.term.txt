@@ -17,6 +17,7 @@
 #INFORMATION
 $C1／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 $C0
+
 　いったい何をしてると思ってるんですか？死にたいんですか？それは廃棄物処分転送機…全ての馬鹿な物の中で…あ！
 
 
@@ -40,7 +41,7 @@ $C0
 
 　私たちとドリニオルにとってそれは良いのですが、私たちは船をプフォールの手にならせることができません。歴史はそうでないことを記録していて、私たちは通して現実へとなるように見なければなりません。私はそれは一緒に未来へと戻すつもりでしたが、その人工頭脳連結が機能しないように見え、それがなければこの時間枠のここにこの船は閉じこめられます。
 
-　歴史はまた、ここのこれらのドリニオルがこのシステムから脱出する方法を見つけたとも記録しています。私たちは彼らに船を残しておくこともできますが、私はまだ最後にプフォールがそれを取るのではないかと恐れています。だから私たちはそれを破壊して、ドリニオルに他の物を送らなければなりません。
+　歴史はまた、ここのこれらのドリンニオルがこのシステムから脱出する方法を見つけたとも記録しています。私たちは彼らに船を残しておくこともできますが、私はまだ最後にプフォールがそれを取るのではないかと恐れています。だから私たちはそれを破壊して、ドリニオルに他の物を送らなければなりません。
 #PICT 401 RIGHT
 
 
@@ -61,17 +62,18 @@ $C1＼＼メッセージ終了／／
 #PICT 431
 $C1／／ジャロ翻訳機起動＼＼
 
-‾‾‾ データコア状態: 全システム計画通り
+~~~ データコア状態: 全システム計画通り
 
-‾‾‾ プロセッサ状態: 全システム計画通り
+~~~ プロセッサ状態: 全システム計画通り
 
-‾‾‾ ニューラルネット状態: 異常活動（※）
+~~~ ニューラルネット状態: 異常活動（※）
 
 コアのデータ：823.543 YB (1,000 ZB以上)
 
 プロセッサ活動：７％（3タスクグループで）
 
 ニューラルネットの活動: 通常活動の250%
+
 
 ※$B警告$b：異常な量のニューラルネットの活動が進行中です。余剰思考プロセスを検査するか、いくつかの人格を他のニューラルネットワークに移してください。
 
@@ -121,6 +123,8 @@ $C1＼＼メッセージ終了／／
 #STATIC 5
 #LOGON 400
 #INFORMATION
+
+
 
 
 
@@ -181,13 +185,13 @@ $C1＼＼メッセージ終了／／
 
 
 
-$C1／／ホスト "Leela" @ [内部プロセスなし]からのメッセージをデコード＼＼
+$C1// Decoding message from host "Leela" [internal process] \\
 $C0
 
-終わりました。転送の準備をしてください。
+All set. Prepare for transport.
 
 
-$C1＼＼メッセージ終了／／
+$C1\\ Message ends //
 #LOGOFF 400
 #INTERLEVEL TELEPORT 38
 #END
@@ -197,18 +201,18 @@ $C1＼＼メッセージ終了／／
 #UNFINISHED
 #LOGON 430
 #PICT 431
-$C1／／ジャロ翻訳機起動＼＼
+$C1// Jjaro translator active \\
 
-*** $B注意: 自壊メカニズム$b ***
-******* 緊急時のみ使うこと！！ *******
+*** CAUTION: SELF-DESTRUCT MECHANISM ***
+******* For emergency use only!! *******
 
-この部屋のトリガーメカニズムはこの船に載った自己型時限式破壊メカニズムを起動します。明示的な合法の同意、悪意のない侵入に対する致命的な危険の脅威、この船のホスト個性の要求がない限り起動$Bしないでください$b。
+The trigger mechanisms in this room will activate a self-contained, timed destruct mechanism on board this vessel. DO NOT activate these trigger mechanisms without explicit legal consent, threat of mortal danger to an innocent entity, or the request of this vessel's host persona.
 
-これらの規則に従わないと、船のホスト人格で遂行された殺人行為であるとみなされ、適切な法的措置で罰せられます。
+Failure to comply with these regulations will be considered an act of murder committed upon the vessel's host persona, punishable by appropriate legal measures.
 
-*** $B注意：自壊メカニズム$b ***
+*** CAUTION: SELF-DESTRUCT MECHANISM ***
 
-＼＼翻訳終了／／
+\\ End translation //
 #LOGOFF 430
 #END
 #ENDTERMINAL 4
